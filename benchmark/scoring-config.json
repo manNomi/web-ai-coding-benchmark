@@ -1,0 +1,6 @@
+{
+  "agentMinutes": [20, 30, 45, 60],
+  "costUsd": [1, 2, 4, 6],
+  "reviewMinutes": [5, 10, 20, 30],
+  "manualFixLines": [0, 5, 20, 50]
+}

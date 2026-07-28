@@ -1,0 +1,13 @@
+{
+  "model": "provider/model-version",
+  "agent": "tool-and-version",
+  "baseCommit": "git-revision",
+  "runNumber": 1,
+  "promptCorrections": 0,
+  "agentMinutes": 0,
+  "reviewMinutes": 0,
+  "manualFixLines": 0,
+  "costUsd": 0,
+  "architectureScore": 0,
+  "notes": "Record unusual failures, infrastructure issues, and reviewer observations."
+}
